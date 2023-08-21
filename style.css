@@ -86,7 +86,7 @@ body
 .rocket .fa-rocket
 {
     position: absolute;
-    color: #ff518c;
+    color: #ff3478;
     font-size: 3.9em;
     -webkit-text-stroke: 2px #000;
     animation: animateRocket 0.2s linear infinite;
